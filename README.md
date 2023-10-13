@@ -1,7 +1,7 @@
 # SQL50
 # LeetCode SQL Practice
 
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-blue?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your_username/)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-blue?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ksdatta411/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 ## Overview
