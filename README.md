@@ -2,7 +2,7 @@
 # LeetCode SQL Practice
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-blue?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ksdatta411/)
-[![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white](https://leetcode.com/ksdatta411/)
+![]([https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white))
 
 ## Overview
 
