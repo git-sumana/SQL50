@@ -1,5 +1,5 @@
 # SQL50
-# LeetCode SQL Practice
+# LeetCode SQL Practice:
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-blue?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ksdatta411/) <br>
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
