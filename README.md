@@ -1,4 +1,8 @@
 # SQL50
+
+Top 50 questions based on recent interviews and examinations are filterd in leetcode and
+and the solutions are here
+
 # LeetCode SQL Practice:
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-blue?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ksdatta411/) <br>
